@@ -1,144 +1,55 @@
-# 💰 Personal Finance Manager
+# ¡Hola! 👋 Soy Sergio
 
-Aplicación web full stack para gestionar ingresos y gastos personales, visualizar estadísticas y controlar el presupuesto mensual.
+🎓 Técnico Superior en Desarrollo de Aplicaciones Web (DAW)
 
-## 🚀 Características
+📚 Actualmente cursando la especialización en Big Data e Inteligencia Artificial.
 
-- Registro e inicio de sesión de usuarios
-- Autenticación mediante JWT
-- Gestión de ingresos y gastos
-- Categorías personalizadas
-- Filtros por fecha
-- Dashboard con gráficos
-- Estadísticas mensuales
-- Exportación de datos
-- API REST documentada con Swagger
+💻 Me interesa especialmente:
 
----
-
-## 🛠️ Tecnologías
-
-### Backend
-- Java 21
-- Spring Boot
-- Spring Security
-- Spring Data JPA
-- JWT
-- Maven
-
-### Frontend
-- React
-- TypeScript
-- Axios
-- Tailwind CSS
-
-### Base de datos
-- PostgreSQL
-
-### DevOps
+- Backend con Java y Spring Boot
+- APIs REST
+- Bases de datos SQL
+- Big Data
+- Machine Learning
 - Docker
-- Docker Compose
-- GitHub Actions
+- Cloud
+
+## 🚀 Tecnologías
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+![SQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+
+## 📂 Proyectos destacados
+
+🔹 Personal Finance Manager
+
+Aplicación Full Stack con Spring Boot + React para la gestión de finanzas personales.
 
 ---
 
-## 📷 Capturas
+🔹 Movie Recommendation System
 
-### Dashboard
-
-![Dashboard](images/dashboard.png)
-
-### Gastos
-
-![Expenses](images/expenses.png)
-
-### Estadísticas
-
-![Stats](images/stats.png)
+Sistema de recomendación utilizando Machine Learning y Python.
 
 ---
 
-## 📁 Arquitectura
+🔹 Data Analytics Dashboard
 
-```
-src
-├── controller
-├── service
-├── repository
-├── model
-├── dto
-├── security
-├── configuration
-└── exception
-```
+Proyecto de análisis de datos con Pandas, Spark y PostgreSQL.
 
----
+## 📈 Actualmente aprendiendo
 
-## ⚙️ Instalación
+- Apache Spark
+- Kafka
+- Azure
+- Inteligencia Artificial
+- Arquitectura de Microservicios
 
-### Clonar el repositorio
+## 📫 Contacto
 
-```bash
-git clone https://github.com/tuusuario/personal-finance-manager.git
-```
-
-### Entrar en el proyecto
-
-```bash
-cd personal-finance-manager
-```
-
-### Levantar Docker
-
-```bash
-docker compose up
-```
-
-### Ejecutar Spring Boot
-
-```bash
-./mvnw spring-boot:run
-```
-
----
-
-## 📌 Endpoints principales
-
-| Método | Endpoint | Descripción |
-|---------|----------|-------------|
-| POST | /auth/register | Registro |
-| POST | /auth/login | Login |
-| GET | /expenses | Obtener gastos |
-| POST | /expenses | Crear gasto |
-| PUT | /expenses/{id} | Actualizar gasto |
-| DELETE | /expenses/{id} | Eliminar gasto |
-
----
-
-## 🧪 Tests
-
-Ejecutar:
-
-```bash
-./mvnw test
-```
-
----
-
-## 📊 Futuras mejoras
-
-- [ ] Aplicación móvil
-- [ ] Notificaciones
-- [ ] Exportación PDF
-- [ ] IA para predicción de gastos
-- [ ] Integración bancaria
-
----
-
-## 👨‍💻 Autor
-
-**Tu Nombre**
-
-LinkedIn: https://linkedin.com/in/tuusuario
-
-GitHub: https://github.com/tuusuario
+- LinkedIn
+- Email
